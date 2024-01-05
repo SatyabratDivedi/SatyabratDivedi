@@ -55,6 +55,6 @@
       src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="git" width="60" height="60" /> </a></p>
       
 
-<p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyabratdivedi&show_icons=true&locale=en&layout=compact" alt="satyabratdivedi" /></p>
+<p><img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyabratdivedi&show_icons=true&locale=en&layout=compact" alt="satyabratdivedi" /></p>
 
-<p>&nbsp;<img height="180px" align="right" src="https://github-readme-stats.vercel.app/api?username=satyabratdivedi&show_icons=true&locale=en" alt="satyabratdivedi" /></p>
+<p>&nbsp;<img height="160px" src="https://github-readme-stats.vercel.app/api?username=satyabratdivedi&show_icons=true&locale=en" alt="satyabratdivedi" /></p>
