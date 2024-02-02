@@ -49,7 +49,8 @@
         alt="nodejs" width="60" height="60" /> </a> &nbsp &nbsp <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         alt="photoshop" width="60" height="60" /> </a> &nbsp &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="git" width="60" height="60" /> </a></p>
+      src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="git" width="60" height="60" /> &nbsp &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="git" width="60" height="60" /> </a></p>
       
       
 
