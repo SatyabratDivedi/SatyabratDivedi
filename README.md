@@ -11,26 +11,17 @@
 Express)- https://form-bot.skdivedi.me
 
 2. Pro Task Manager (React, MongoDB, Redux,
-Express)- https://pro-task-manager.vercel.app
+Express)- https://task-manager.skdivedi.me
 
-3. Super News App (React, MongoDB, Tailwind,
-Express)- https://super-app-demo.vercel.app
+3. Shopping Website (Frontend) (React, Tailwind)- https://ecommerce.skdivedi.me
 
-4. Password Manager (React, MongoDB, Tailwind,
+4. Super News App (React, MongoDB, Tailwind,
+Express)- https://super-app.skdivedi.me
+
+5. Password Manager (React, MongoDB, Tailwind,
 Express)- https://password-manager-mern.vercel.app
 
-5. Course Manage App (React, MongoDB, Redux,
-Express)- https://course-management-app.vercel.app
-
-6. MERN Note Website (React, MongoDB, Redux,
-Express)- https://mern-note1-app.vercel.app
-
-7. Website Performance Analyzer (React, Node)- https://speedx1.vercel.app
-
-8. Floating CRUD (ReactJs, Tailwind, Framer
-Motion)- https://drag-and-drop-mytodo.vercel.app
-
-9. Food Ordering App (ReactJs, Tailwind, Redux) -
+6. Food Ordering App (ReactJs, Tailwind, Redux) -
 https://foodiess-react-web.netlify.app
 
 <hr/>
