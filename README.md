@@ -8,17 +8,17 @@
 
 <h3 align="left">👨‍💻 My Few Projects 👇👇:</h3> 
 
-1. Form Bot(Full Stack)- </br> https://form-bot.skdivedi.me </br> (React, MongoDB, Redux, Express)
+1. Form Bot(Full Stack):- </br> https://form-bot.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
 
-2. Pro Task Manager(Full Stack) (React, MongoDB, Redux, Express)- https://task-manager.skdivedi.me
+2. Pro Task Manager(Full Stack):- </br> https://task-manager.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
 
-3. Password Manager(Full Stack) (React, MongoDB, Tailwind, Express)- https://password-manager.skdivedi.me
+3. Password Manager(Full Stack):- </br> https://password-manager.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
 
-4. Super News App(Full Stack) (React, MongoDB, Tailwind, Express)- https://super-app.skdivedi.me
+4. Super News App(Full Stack):- </br> https://super-app.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
 
-5. Shopping Website (Frontend) (React, Tailwind)- https://ecommerce.skdivedi.me
+5. Shopping Website (Frontend):- </br> https://ecommerce.skdivedi.me </br> (React, Tailwind)
 
-6. Food Ordering App(frontend) (ReactJs, Tailwind) -https://foodiess-react-web.netlify.app
+6. Food Ordering App(frontend):- </br> https://foodiess-react-web.netlify.app </br> (React, Tailwind)
 
 <hr/>
 
