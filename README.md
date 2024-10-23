@@ -7,18 +7,19 @@
  <hr></hr>
 
 <h3 align="left">👨‍💻 My Few Projects 👇👇:</h3> 
+{isResponsive? (📱):(💻)}
 
-1. Form Bot(Full Stack, Not Responsive):- </br> https://form-bot.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
+1. Form Bot(Full Stack, 💻):- </br> https://form-bot.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
 
-2. Pro Task Manager(Full Stack, Not Responsive):- </br> https://task-manager.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
+2. Pro Task Manager(Full Stack, 💻):- </br> https://task-manager.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
 
-3. Password Manager(Full Stack, Responsive):- </br> https://password-manager.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
+3. Password Manager(Full Stack, 📱):- </br> https://password-manager.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
 
-4. Super News App(Full Stack, Not Responsive):- </br> https://super-app.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
+4. Super News App(Full Stack, 💻):- </br> https://super-app.skdivedi.me </br> (React, MongoDB, Tailwind, Express, Node)
 
-5. Shopping Website (Frontend):- </br> https://ecommerce.skdivedi.me </br> (React, Tailwind)
+5. Shopping Website (Frontend, 📱):- </br> https://ecommerce.skdivedi.me </br> (React, Tailwind)
 
-6. Food Ordering App(frontend):- </br> https://foodiess-react-web.netlify.app </br> (React, Tailwind)
+6. Food Ordering App(frontend, 📱):- </br> https://foodiess-react-web.netlify.app </br> (React, Tailwind)
 
 <hr/>
 
