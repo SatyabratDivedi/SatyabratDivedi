@@ -7,7 +7,7 @@
  <hr></hr>
 
 <h3 align="left">👨‍💻 My Few Projects 👇👇:</h3> 
-{isResponsive? (📱):(💻)}
+😂{isResponsive? (📱):(💻)}
 
 1. Form Bot(Full Stack, 💻):- </br> https://form-bot.skdivedi.me </br> (React, MongoDB, Redux, Express, Node)
 
