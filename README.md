@@ -7,22 +7,17 @@
  <hr></hr>
 
 
-1. Form Bot (React, MongoDB, Redux,
-Express)- https://form-bot.skdivedi.me
+1. Form Bot (React, MongoDB, Redux, Express)- https://form-bot.skdivedi.me
 
-2. Pro Task Manager (React, MongoDB, Redux,
-Express)- https://task-manager.skdivedi.me
+2. Pro Task Manager (React, MongoDB, Redux, Express)- https://task-manager.skdivedi.me
 
 3. Shopping Website (Frontend) (React, Tailwind)- https://ecommerce.skdivedi.me
 
-4. Super News App (React, MongoDB, Tailwind,
-Express)- https://super-app.skdivedi.me
+4. Super News App (React, MongoDB, Tailwind, Express)- https://super-app.skdivedi.me
 
-5. Password Manager (React, MongoDB, Tailwind,
-Express)- https://password-manager-mern.vercel.app
+5. Password Manager (React, MongoDB, Tailwind, Express)- https://password-manager.skdivedi.me
 
-6. Food Ordering App (ReactJs, Tailwind, Redux) -
-https://foodiess-react-web.netlify.app
+6. Food Ordering App (ReactJs, Tailwind) -https://foodiess-react-web.netlify.app
 
 <hr/>
 
