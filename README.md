@@ -33,7 +33,8 @@
 
 
  <hr/>
-- 📫 How to reach me **skdivedi@outlook.com** <br/>
+- 📫 ## How to reach me  
+📧 <a href="mailto:skdivedi@outlook.com">skdivedi@outlook.com</a> <br/>
 - 🌱 I’m currently learning **Advance React and Redux and also backend technology**
 
 
