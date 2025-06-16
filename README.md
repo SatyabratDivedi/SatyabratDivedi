@@ -20,6 +20,8 @@
 ![Node](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black) 
 ![mongodb](https://img.shields.io/badge/mongodb-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-6598c3?style=for-the-badge&logo=postgreSQL&logoColor=white)
+![prisma](https://img.shields.io/badge/prisma-1d2148?style=for-the-badge&logo=prisma&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-fc6b36?style=for-the-badge&logo=postman&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-ff4438?style=for-the-badge&logo=redis&logoColor=white)
