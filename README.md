@@ -46,7 +46,7 @@
  <h3 align="left">👨‍💻 My Few Projects 👇👇:</h3> 
 😂{isResponsive? (📱):(💻)}
 
-1. Vehicle Rent (Full Stack, 💻):- https://rentvehical.com (NextJs, TypeScript, Redux, Express, Node, PostgreSQL, AWS S3 and Redis)
+1. Vehicle Rent (Full Stack, 📱):- https://rentvehical.com (NextJs, TypeScript, Redux, Express, Node, PostgreSQL, AWS S3 and Redis)
 
 2. Form Bot(Full Stack, 💻):-https://form-bot.skdivedi.me (React, MongoDB, Redux, Express, Node)
 
