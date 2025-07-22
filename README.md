@@ -46,17 +46,11 @@
  <h3 align="left">👨‍💻 My Few Projects 👇👇:</h3> 
 😂{isResponsive? (📱):(💻)}
 
-1. Form Bot(Full Stack, 💻):-https://form-bot.skdivedi.me (React, MongoDB, Redux, Express, Node)
+1. Vehicle Rent (Full Stack, 💻):- https://rentvehical.com (NextJs, TypeScript, Redux, Express, Node, PostgreSQL, AWS S3 and Redis)
 
-2. Pro Task Manager(Full Stack, 💻):- https://task-manager.skdivedi.me  (React, MongoDB, Redux, Express, Node)
+2. Form Bot(Full Stack, 💻):-https://form-bot.skdivedi.me (React, MongoDB, Redux, Express, Node)
 
-3. Password Manager(Full Stack, 📱):- https://password-manager.skdivedi.me  (React, MongoDB, Tailwind, Express, Node)
-
-4. Super News App(Full Stack, 💻):-  https://super-app.skdivedi.me (React, MongoDB, Tailwind, Express, Node)
-
-5. Shopping Website (Frontend, 📱):- https://ecommerce.skdivedi.me  (React, Tailwind)
-
-6. Food Ordering App(frontend, 📱):- https://foodiess-react-web.netlify.app (React, Tailwind)
+3. Pro Task Manager(Full Stack, 💻):- https://task-manager.skdivedi.me  (React, MongoDB, Redux, Express, Node)
 
 <hr/>
       
